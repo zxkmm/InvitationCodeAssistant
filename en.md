@@ -4,7 +4,7 @@ InvitationCodeAssistant: Automatically copy text in list to clipboard.
 
 # Download
 
-You can download the precompiled binary file from the Releases on the right.
+Compile yourself pls ：）
 
 # Usage
 
