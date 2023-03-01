@@ -14,3 +14,4 @@ Python 3
 Tkinter
 
 # i18n
+https://github.com/zxkmm/InvitationCodeAssistant/blob/main/en.md
